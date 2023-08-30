@@ -3,11 +3,16 @@
     "blocks": ["header-layout.desktop","header-layout.mobile"]
   },
   "header.full": {
-    "blocks": ["header-layout.desktop"]
+    "blocks": ["header-layout.desktop","header-layout.mobile"]
   },
   "header-layout.desktop": {
     "children": [
       "megamenu-desktop"
+    ]
+  },
+  "header-layout.mobile": {
+    "children": [
+      "megamenu-mobile"
     ]
   }
 }
