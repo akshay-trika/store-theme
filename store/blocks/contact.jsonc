@@ -16,8 +16,7 @@
   "flex-layout.col#contact-us": {
     "children": [
       "rich-text#contact-us",
-      "contactus-form",
-      "contactus-table"
+      "contactus-form"
     ]
   },
   "rich-text#contact-us": {

@@ -6,10 +6,10 @@
        * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
       "flex-layout.row#deals",
       "__fold__",
+      "contactus-service",
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
       "info-card#home",
-      "info-card#ContactUs",
       "rich-text#question",
       "rich-text#link",
       "newsletter"
@@ -88,18 +88,7 @@
       "textAlignment": "center"
     }
   },
-  "info-card#ContactUs": {
-    "props": {
-      "id": "info-card-contact",
-      "isFullModeStyle": false,
-      "textPosition": "center",
-      "headline": "Contact Us",
-      "callToActionText": "Contact",
-      "callToActionUrl": "/contact-us",
-      "blockClass": "info-card-contact",
-      "textAlignment": "center"
-    }
-  },
+
 
   "rich-text#question": {
     "props": {

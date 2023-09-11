@@ -11,8 +11,8 @@
     },
     "flex-layout.col#tablecontact": {
       "children": [
-        "contactus-table",
-        "rich-text#tablecontact"
+        "rich-text#tablecontact",
+        "contactus-table"
   
       ]
     },
