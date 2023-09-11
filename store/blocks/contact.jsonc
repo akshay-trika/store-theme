@@ -13,11 +13,10 @@
       "flex-layout.col#contact-us"
     ]
   },
-
   "flex-layout.col#contact-us": {
     "children": [
       "rich-text#contact-us",
-      "form#contact-us"
+      "contactus-form"
     ]
   },
   "rich-text#contact-us": {
@@ -76,7 +75,7 @@
       "pointer": "#/properties/message"
     }
   },
-
+  
   "form-submit#contact": {
     "props": {
       "label": "Submit"

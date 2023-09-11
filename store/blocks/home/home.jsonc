@@ -6,6 +6,7 @@
        * For example, `flex-layout.row#deals` is defined in the `deals.json` file. */
       "flex-layout.row#deals",
       "__fold__",
+      "contactus-service",
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
       "info-card#home",
@@ -87,6 +88,7 @@
       "textAlignment": "center"
     }
   },
+
 
   "rich-text#question": {
     "props": {
